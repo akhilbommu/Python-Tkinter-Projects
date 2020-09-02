@@ -39,7 +39,7 @@ root = tkinter.Tk()
 root.geometry("350x400")
 
 root.title("Jumbled Words")
-root.configure(background="#000000")
+root.configure(background="#454a43")
 
 lbl = Label(
     root,
